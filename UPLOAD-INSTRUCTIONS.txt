@@ -1,0 +1,10 @@
+Smart Room Controller PCB GitHub package
+
+Contents:
+- README.md
+- Images/ folder with schematic, PCB layers, silkscreen and 3D views
+
+Upload the whole folder contents to your GitHub repository root.
+
+Recommended repository name:
+Smart-Room-Controller-PCB
