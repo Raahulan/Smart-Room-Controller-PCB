@@ -33,7 +33,7 @@ The system is built around the **ATmega328P microcontroller** and provides inter
 
 The front side contains the ATmega328P controller, oscillator circuitry, connectors, switches, buzzer and passive components.
 
-![Front 3D View](Images/Front-3D-View.png)
+![Front 3D View](Front-Image.png)
 
 ---
 
@@ -331,7 +331,7 @@ The front silkscreen provides clear component labels, connector names and interf
 
 # 🔍 Front PCB View
 
-![PCB Front View](Images/Front-Image.png)
+![PCB Front View](Images/Images/Front-3D-View.png)
 
 ---
 
